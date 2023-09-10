@@ -2,6 +2,9 @@ cabinet-no-mystery
 ==============================
 
 the idea of this project is do:
+1. an exploratory data analysis
+2. try to predict the ideal inventory for a smartcabinet
+
 
 Project Organization
 ------------
